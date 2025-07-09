@@ -44,6 +44,11 @@ const API_SITES = {
     //     name: '小猫咪资源',
     // },
     ffzy: {
+        api: 'https://ddys.pro/?ref=faxianx.com',
+        name: '低端影视',
+        detail: 'https://ddys.pro', 
+    },
+    ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
